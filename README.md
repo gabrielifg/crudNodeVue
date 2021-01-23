@@ -15,3 +15,11 @@
 <h4 align="center"> 
 	🚧  Vue Crud 🚀 Em construção...  🚧
 </h4>
+
+
+### Features
+
+- [ ] Tela Principal
+- [ ] Cadastro de usuário
+- [ ] Cadastro de cliente
+- [ ] Cadastro de produtos
