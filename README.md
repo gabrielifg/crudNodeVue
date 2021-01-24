@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Node e Vue</a>
+    <a href="https://vuejs.org/">🔗 Vue</a>
 </h1>
 <p align="center">🚀 Projeto para treinar e aprimorar técnicas de programação para o mercado</p>
 
