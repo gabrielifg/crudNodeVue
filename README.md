@@ -31,7 +31,7 @@
 <a href="https://blog.rocketseat.com.br/author/thiago/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54401758?s=400&u=7f930bce6294bd7796710430fc0e220378d19315&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Gabriel Eduardo</b></sub></a> <a <!-- href="https://blog.rocketseat.com.br/author/thiago//" --> title="Meg Company">🚀</a>
+ <sub><b>Gabriel Eduardo</b></sub></a> <a title="Meg Company">🚀</a>
 
 
 Feito com ❤️ por Gabriel Eduardo 👋🏽 Entre em contato!
